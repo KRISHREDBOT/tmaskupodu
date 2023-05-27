@@ -1,5 +1,5 @@
-/node_modules
-/.vscode
-/downloads
-links.txt
-out*.txt
+*.session
+*.session-journal
+
+__pycache__
+*.pyc
